@@ -1,0 +1,19 @@
+{
+  "name": "deluge-add",
+  "version": "0.0.0",
+  "description": "Add a torrent to a deluge instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "deluge",
+    "torrent"
+  ],
+  "author": "Ryan Ramage",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "request": "~2.33.0",
+    "zlib": "~1.0.5"
+  }
+}
