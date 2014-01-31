@@ -1,6 +1,6 @@
 {
   "name": "deluge-add",
-  "version": "0.0.0",
+  "version": "0.0.3",
   "description": "Add a torrent to a deluge instance",
   "main": "index.js",
   "scripts": {
